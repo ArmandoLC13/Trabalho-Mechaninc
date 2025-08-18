@@ -1,0 +1,32 @@
+.container {
+    background-color: #333;
+    color: #fff;
+}
+
+.logo h1, .logo p {
+    color: #fff;
+}
+
+.input-group input {
+    background-color: #555;
+    border: 1px solid #777;
+    color: #fff;
+}
+
+.input-group input::placeholder {
+    color: #bbb;
+}
+
+.btn-submit {
+    background-color: #ffc107;
+    color: #333;
+}
+
+.btn-submit:hover {
+    background-color: #e0a800;
+}
+
+.login-link a {
+    color: #ffc107;
+}
+
